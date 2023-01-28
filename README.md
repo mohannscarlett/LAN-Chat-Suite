@@ -11,7 +11,8 @@ Java
 
 To run this project suite Java 8+ is required.
 Download each project from the repository from the in section or clone it using the following command:
-git clone https://github.com/mohannscarlett/LAN-Chat-Suite.git
+
+_git clone https://github.com/mohannscarlett/LAN-Chat-Suite.git_
 
 **How to Use?**
 One instance of the Server.java (main)[and its related directory] should be run to instanciate a running server that clients can connect to. From there, numerous instances of Client.java [and its related directory] can be run on different desktops connected to the same LAN and will indicate to the user on how to connect to the chat server. Once connected, all clients can communicate with eachother over their LAN.
