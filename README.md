@@ -3,10 +3,6 @@
 **Project Description**:
 Server and client desktop applications used to communicate over a LAN.
 
-**Build Status**
-
-This version of the suite contains an unimplemented feature on the client side. This feature should allow a client connecting with a dupliate display name to be prompted that they have been rejected from joining the LAN chat due someone already using their display name.
-
 **Technologies used to create this application;**
 
 Java
