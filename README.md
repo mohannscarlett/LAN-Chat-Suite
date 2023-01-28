@@ -17,6 +17,8 @@ One instance of the Server.java (main)[and its related directory] should be run 
 
 Alternatively, one could pack each project directory into .jar files and run the server and client as executable apps.
 
-![server-console](https://user-images.githubusercontent.com/123710621/215256456-cfb12bbc-5f3d-4a6b-89f8-689e9e575432.png)
-![client2](https://user-images.githubusercontent.com/123710621/215256460-bcce2cbb-1f17-42db-9db3-f1a3d0982f02.png)
-![client1](https://user-images.githubusercontent.com/123710621/215256463-8ada14a1-c929-40b2-b2de-7dde6d9f304b.png)
+**Screenshots of Applications In Use:**
+![server-terminal](https://user-images.githubusercontent.com/123710621/215257075-bba3d169-9dd5-451b-982a-e1edcfbb763d.png)
+![client1](https://user-images.githubusercontent.com/123710621/215257078-cbb222e2-e096-4b25-ad97-8fb195d34d9f.png)
+![client2](https://user-images.githubusercontent.com/123710621/215257080-51b5571c-0dcb-4892-a0b9-4a4eeca5c021.png)
+![client3](https://user-images.githubusercontent.com/123710621/215257083-442ca292-e811-41d3-b151-9267b07dee99.png)
