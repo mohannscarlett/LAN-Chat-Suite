@@ -1,16 +1,21 @@
 # LAN-Chat-Suite
 
-**Project Description**
+**Project Description**:
 Server and client desktop applications used to communicate over a LAN.
 
 **Build Status**
+
 This version of the suite contains an unimplemented feature on the client side. This feature should allow a client connecting with a dupliate display name to be prompted that they have been rejected from joining the LAN chat due someone already using their display name.
 
 **Technologies used to create this application;**
+
 Java
 
-**Installation**
+**Installation & Requirements**
+
 To run this project suite Java 8+ is required.
+Download each project from the repository from the in section or clone it using the following command:
+git clone https://github.com/mohannscarlett/LAN-Chat-Suite.git
 
 **How to Use?**
 One instance of the Server.java (main)[and its related directory] should be run to instanciate a running server that clients can connect to. From there, numerous instances of Client.java [and its related directory] can be run on different desktops connected to the same LAN and will indicate to the user on how to connect to the chat server. Once connected, all clients can communicate with eachother over their LAN.
