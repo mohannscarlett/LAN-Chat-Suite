@@ -10,7 +10,7 @@ Java
 **Installation & Requirements**
 
 To run this project suite Java 8+ is required.
-Download each project from the repository from the in section or clone it using the following command:
+Download each project from the repository or clone it using the following command:
 
 _git clone https://github.com/mohannscarlett/LAN-Chat-Suite.git_
 
