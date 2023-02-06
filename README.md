@@ -18,6 +18,7 @@ _git clone https://github.com/mohannscarlett/LAN-Chat-Suite.git_
 One instance of the Server.java (main)[and its related directory] should be run to instanciate a running server that clients can connect to. From there, numerous instances of Client.java [and its related directory] can be run on different desktops connected to the same LAN and will indicate to the user on how to connect to the chat server. Once connected, all clients can communicate with eachother over their LAN.
 
 Alternatively, one could pack each project directory into .jar files and run the server and client as executable apps.
+It should be noted that all computers that want to run a client or server need to allow ping requests to other devices on the LAN.
 
 **Screenshots of Applications In Use:**
 ![server-terminal](https://user-images.githubusercontent.com/123710621/215257075-bba3d169-9dd5-451b-982a-e1edcfbb763d.png)
